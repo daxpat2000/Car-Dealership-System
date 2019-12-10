@@ -1,6 +1,6 @@
 # Car-Dealership-System-with-GUI
 
-To login using admin, used "password" as the password.
+To login using admin, use "password" as the password.
 
 To login as emploee, login fist as a admin once, and get one of the employee id. Then use the employee id to login.
 

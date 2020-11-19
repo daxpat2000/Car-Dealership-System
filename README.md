@@ -1,5 +1,4 @@
-# Car-Dealership-System-with-GUI
-
+# Car-Dealership-System
 To login using admin, use "password" as the password.
 
 To login as employee:
